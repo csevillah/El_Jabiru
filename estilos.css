@@ -3,6 +3,7 @@ h1 {
         font-size:200%;
 	background-color:yellow;
 	color:black;
+	text-align: center;
 }
 body {
     background-color: lightblue;
