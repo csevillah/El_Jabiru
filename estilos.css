@@ -9,10 +9,10 @@ body {
     background-color: lightblue;
     margin: 0 4px 0 0;
     border: 10px solid;
-    font-size  : 40px;
+    font-size  : 60%;
 }
 p {
-    font-size  : 40%;
+    font-size  : 60%;
 }
 
 a {
