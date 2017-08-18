@@ -29,3 +29,7 @@ iframe {
     margin:  auto;
     width: 40%;
 }
+cite {
+    font-size  : 20px;
+    text-align: center;
+}
